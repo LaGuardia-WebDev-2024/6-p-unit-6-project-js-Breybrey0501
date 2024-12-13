@@ -10,10 +10,13 @@ void draw(){
   fill(255,255,255);
   strokeWeight(1);
 
-  //💡⬇️⬇️⬇️💡 Your Code For This Project Goes Here
+  //💡⬇️⬇️⬇️💡 Your Code For This Project Goes 
   
+    fill(85, 218, 39);
+ellipse(200,200,230,170);
+triangle(160,54,132,80,161,120);
+triangle(282,36,236,78,276,125)
 
-  
 
 }
 
