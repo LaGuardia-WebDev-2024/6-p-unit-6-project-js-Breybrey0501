@@ -12,10 +12,46 @@ void draw(){
 
   //💡⬇️⬇️⬇️💡 Your Code For This Project Goes 
   
-    fill(85, 218, 39);
+   fill(201, 232, 12)
 ellipse(200,200,230,170);
-triangle(160,54,132,80,161,120);
-triangle(282,36,236,78,276,125)
+///yellowishgreen
+fill(234, 201, 136)
+triangle(149,130,178,67,198,110);
+triangle(251,116,266,78,278,132);
+
+fill(247,249,247)
+ellipse(170,170,60,60);
+ellipse(230,170,60,60);
+///white
+
+fill(139,156,129)
+ellipse(170,170,30,20);
+ellipse(230,170,30,20);
+///greyisheyes
+
+fill(9,15,11)
+ellipse(173,170,25,15);
+ellipse(233,170,25,15);
+///pupilcolor
+
+fill(201, 232, 12)
+rect(160,280,30,193);
+rect(230,280,30,193);
+
+rect(89,170,30,193);
+rect(280,170,30,193);
+///arm and legs
+
+
+line()
+
+
+
+
+
+
+
+
 
 
 }
